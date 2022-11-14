@@ -1,2 +1,3 @@
 # Softuni-Courses
-Courses from my education
+Courses from my education.
+Basic syntax - exercise.
